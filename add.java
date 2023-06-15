@@ -15,3 +15,9 @@ class Addition{
 		System.out.println(a+b);
 	}
 }
+class Subtraction{
+	
+	public void sub(int a,int b) {
+		System.out.println(a-b);
+	}
+}
